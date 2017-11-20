@@ -1,3 +1,5 @@
+# Forked from SinanMtl/webpack-simple-starter
+
 # Webpack Simple Starter
 A simple webpack starter without framework (Like Vue, React, Angular, etc.). This project is inspired from [**vue-cli webpack project**](https://github.com/vuejs/vue-cli#vue-build)
 
